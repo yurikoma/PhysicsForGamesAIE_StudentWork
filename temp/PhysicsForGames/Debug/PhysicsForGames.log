@@ -1,0 +1,19 @@
+﻿  main.cpp
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\physicsforgamesapp.h(16): error C2653: 'glm': is not a class or namespace name
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\physicsforgamesapp.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\physicsforgamesapp.h(16): error C2143: syntax error: missing ',' before '&'
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\main.cpp(5): error C2259: 'PhysicsForGamesApp': cannot instantiate abstract class
+  a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\main.cpp(5): note: due to following members:
+  a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\main.cpp(5): note: 'void aie::Application::draw(void)': is abstract
+  a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\bootstrap\application.h(25): note: see declaration of 'aie::Application::draw'
+  SphereBody.cpp
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\spherebody.cpp(6): error C2653: 'ShapeID': is not a class or namespace name
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\spherebody.cpp(9): error C2664: 'Rigidbody::Rigidbody(const Rigidbody &)': cannot convert argument 1 from 'ShapeType' to 'glm::vec2'
+  a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\spherebody.cpp(9): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  PhysicsScene.cpp
+  PhysicsForGamesApp.cpp
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\physicsforgamesapp.h(16): error C2653: 'glm': is not a class or namespace name
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\physicsforgamesapp.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\physicsforgamesapp.h(16): error C2143: syntax error: missing ',' before '&'
+a:\aie\advanced diploma\13 physics for games\00 project folder\aiebootstrap\physicsforgames\physicsforgamesapp.cpp(17): fatal error C1083: Cannot open include file: 'Rocket.h': No such file or directory
+  Generating Code...
